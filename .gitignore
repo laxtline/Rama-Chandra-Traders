@@ -1,0 +1,22 @@
+# ── Legacy sections from the old design (kept locally, not part of the site) ──
+js/components/ticker.js
+js/components/media-grids.js
+js/components/reviews.js
+js/config/gallery-media.js
+js/config/projects-media.js
+js/config/achievements-media.js
+assets/gallery/
+assets/projects/
+assets/achievements/
+assets/banner/background.jpg
+
+# ── Original images (the site serves WebP, originals stay local) ──
+assets/categories/**/*.png
+assets/logo/logo.png
+assets/about/showroom.jpg
+assets/banner/banner.jpg
+
+# ── Editor / OS files ──
+.vscode/
+Thumbs.db
+.DS_Store
